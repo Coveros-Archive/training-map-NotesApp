@@ -1,4 +1,2 @@
-/gen/
-/bin/
-/.settings/
-/build/
+.idea/
+.gradle/

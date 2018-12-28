@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/brian/Coveros/Development/projects/internal-dev/training-map-NotesApp-android/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/brian/Coveros/Development/projects/internal-dev/training-map-NotesApp-android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "17,32,39,38,23,18,25,27,30,28,29,26,40,35,36,33,21,22,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "691,1300,1549,1503,956,736,1012,1101,1246,1148,1191,1058,1610,1394,1445,1343,849,902,792",
+                        "endColumns": "44,40,60,45,50,50,45,46,48,42,54,42,68,50,52,45,52,53,56",
+                        "endOffsets": "731,1336,1605,1544,1002,782,1053,1143,1290,1186,1241,1096,1674,1440,1493,1384,897,951,844"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,141,202,248,299,350,396,443,492,535,590,633,702,753,806,852,905,959",
+                        "endColumns": "44,40,60,45,50,50,45,46,48,42,54,42,68,50,52,45,52,53,56",
+                        "endOffsets": "95,136,197,243,294,345,391,438,487,530,585,628,697,748,801,847,900,954,1011"
+                    }
+                }
+            ]
+        }
+    ]
+}
